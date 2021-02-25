@@ -1,0 +1,4 @@
+pandas~=1.2.2
+lxml~=4.6.2
+GoogleAppEngineCloudStorageClient~=1.9.22.1
+google-cloud-storage~=1.35.1
